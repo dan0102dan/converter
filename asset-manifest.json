@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/converter/static/css/main.89b6a371.chunk.css",
-    "main.js": "/converter/static/js/main.7c5327e1.chunk.js",
-    "main.js.map": "/converter/static/js/main.7c5327e1.chunk.js.map",
+    "main.css": "/converter/static/css/main.9953d1cb.chunk.css",
+    "main.js": "/converter/static/js/main.51ba0c84.chunk.js",
+    "main.js.map": "/converter/static/js/main.51ba0c84.chunk.js.map",
     "runtime-main.js": "/converter/static/js/runtime-main.d984631f.js",
     "runtime-main.js.map": "/converter/static/js/runtime-main.d984631f.js.map",
     "static/css/2.1e562f28.chunk.css": "/converter/static/css/2.1e562f28.chunk.css",
@@ -13,13 +13,14 @@
     "static/js/4.d590146c.chunk.js": "/converter/static/js/4.d590146c.chunk.js",
     "static/js/4.d590146c.chunk.js.map": "/converter/static/js/4.d590146c.chunk.js.map",
     "index.html": "/converter/index.html",
-    "precache-manifest.faf62ff01cb1b7eb65dd5935417cc5b9.js": "/converter/precache-manifest.faf62ff01cb1b7eb65dd5935417cc5b9.js",
+    "precache-manifest.68a46dda3038a92981dd3da3920bb311.js": "/converter/precache-manifest.68a46dda3038a92981dd3da3920bb311.js",
     "service-worker.js": "/converter/service-worker.js",
     "static/css/2.1e562f28.chunk.css.map": "/converter/static/css/2.1e562f28.chunk.css.map",
-    "static/css/main.89b6a371.chunk.css.map": "/converter/static/css/main.89b6a371.chunk.css.map",
+    "static/css/main.9953d1cb.chunk.css.map": "/converter/static/css/main.9953d1cb.chunk.css.map",
     "static/js/2.d8e0fa49.chunk.js.LICENSE.txt": "/converter/static/js/2.d8e0fa49.chunk.js.LICENSE.txt",
     "static/js/3.ee079697.chunk.js.LICENSE.txt": "/converter/static/js/3.ee079697.chunk.js.LICENSE.txt",
     "static/media/ava.png": "/converter/static/media/ava.85066ad8.png",
+    "static/media/styles.css": "/converter/static/media/backgroundLight.37959e0f.png",
     "static/media/gallery.png": "/converter/static/media/gallery.f7323948.png",
     "static/media/gif.png": "/converter/static/media/gif.79710f9c.png",
     "static/media/heic.png": "/converter/static/media/heic.3079e518.png",
@@ -34,7 +35,7 @@
     "static/js/runtime-main.d984631f.js",
     "static/css/2.1e562f28.chunk.css",
     "static/js/2.d8e0fa49.chunk.js",
-    "static/css/main.89b6a371.chunk.css",
-    "static/js/main.7c5327e1.chunk.js"
+    "static/css/main.9953d1cb.chunk.css",
+    "static/js/main.51ba0c84.chunk.js"
   ]
 }
